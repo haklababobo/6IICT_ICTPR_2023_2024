@@ -1,5 +1,6 @@
 body {
-	background-color: grey;
+	
+	background-color: orange; /*achtergrond: oranje*/
 	}
 
 header, aside, footer, article {
@@ -21,6 +22,7 @@ header {
 	
 h1 {
 	font-size: 90px;
+	font-family: Verdana, arial, sans-serif;
 	}
 aside {
 	float: right;
@@ -39,6 +41,7 @@ article {
 	margin-left: 0px;
 	padding: 10px;
 	background-color: #DDDDDD;	/*lichtgrijs*/
+	border-style: solid;
 	}
 	
 footer {
